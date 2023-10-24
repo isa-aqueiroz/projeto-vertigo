@@ -29,3 +29,12 @@ main {
   margin-bottom: 1rem;
   font-size: 1.56266rem;
 }
+
+.descricao p {
+  color: var(--gray-600);
+  font-size: 0.8125rem;
+}
+
+.descricao {
+  margin-bottom: 2.5rem;
+}
