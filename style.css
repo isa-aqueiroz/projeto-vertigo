@@ -111,3 +111,17 @@ main {
   color: var(--purple);
   font-size: 1rem;
 }
+
+@media (min-width: 500px) {
+  header {
+    background: none;
+    justify-content: flex-start;
+  }
+  header img {
+    width: 10rem;
+  }
+
+  main {
+    padding-inline: 7rem;
+  }
+}
